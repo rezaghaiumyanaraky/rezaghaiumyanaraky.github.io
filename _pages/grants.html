@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Grants and Awards"
+permalink: /grants/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a list of all the grants I've contributed to!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
