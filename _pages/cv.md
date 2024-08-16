@@ -1,8 +1,6 @@
 ---
 layout: archive
 title: "Reza's CV"
- <embed src="http://example.com/the.pdf" width="500" height="375" 
- type="application/pdf">
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,3 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
