@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<object data="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+xfun::embed_file("[homework.pdf](https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf)")
+#<object data="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf" type="application/pdf" width="700px" height="700px">
+#    <embed src="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">
+#        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">Download PDF</a>.</p>
+#    </embed>
+#</object>
 https://rezaghaiumyanaraky.github.io//cv/
