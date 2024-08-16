@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Reza's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,3 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="http://rezaghaiumyanaraky.github.io/_pages/CV.pdf" width="500" height="375" 
+ type="application/pdf">
