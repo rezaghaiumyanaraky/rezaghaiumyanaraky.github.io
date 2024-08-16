@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Reza Ghaiumy Anaraky"
   pronouns         : # example: "she/her"  
-  bio              : "HCI, Privacy, Older Aduls Health"
+  bio              : "HCI, Privacy, Older Adults' Health"
   location         : 
   employer         : "New York University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/reza-gh"
+  linkedin         : reza-gh
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/Reza_G_Anaraky"
+  twitter          : Reza_G_Anaraky
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
