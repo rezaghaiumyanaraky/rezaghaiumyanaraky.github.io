@@ -14,4 +14,4 @@ xfun::embed_file("https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf")
 #        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">Download PDF</a>.</p>
 #    </embed>
 #</object>
-https://rezaghaiumyanaraky.github.io//cv/
+
