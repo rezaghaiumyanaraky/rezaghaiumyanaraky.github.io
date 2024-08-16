@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-xfun::embed_file("[homework.pdf](https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf)")
+xfun::embed_file("https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf")
 #<object data="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf" type="application/pdf" width="700px" height="700px">
 #    <embed src="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">
 #        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://rezaghaiumyanaraky.github.io/_Pages/CV.pdf">Download PDF</a>.</p>
